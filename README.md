@@ -97,7 +97,7 @@ The changes in this project reflect my development as a data scientist, from wri
 ## View the Full Comparison
 
 To view the full before-and-after comparison, including both versions of the code, visit my GitHub repository:
-[Refined-Analysis]([https://github.com/jabirG/My-Career](https://github.com/jabirG/First-Project-Before-and-After-Comparison-/blob/main/refined_game_analysis.Rmd))
+[Refined-Analysis]([https://github.com/jabirG/My-Career](https://github.com/jabirG/First-Project-Before-and-After-Comparison-/blob/main/refined_game_analysis.Rmd)
 
 For more detailed information on my growth and experience, check out my [LinkedIn](https://www.linkedin.com/in/jabir-ghaffar-977438209/).
 ```
